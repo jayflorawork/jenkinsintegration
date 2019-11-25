@@ -1,5 +1,5 @@
 {
-    "AWSTemplateFormatVersion1": "2010-09-09",
+    "AWSTemplateFormatVersion2": "2010-09-09",
     "Resources": {
         "cloudfrontdistribution1": {
             "Type": "AWS::CloudFront::Distribution",
