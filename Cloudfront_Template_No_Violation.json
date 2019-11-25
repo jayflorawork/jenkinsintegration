@@ -1,7 +1,7 @@
 {
-    "AWSTemplateFormatVersion3": "2010-09-09",
+    "AWSTemplateFormatVersion4": "2010-09-09",
     "Resources": {
-        "cloudfrontdistribution1": {
+        "cloudfrontdistribution": {
             "Type": "AWS::CloudFront::Distribution",
             "Properties": {
                 "DistributionConfig": {
